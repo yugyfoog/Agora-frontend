@@ -1,0 +1,10 @@
+.wrapper {
+    display: flex;
+    flex-direction: col;
+    flex-wrap: wrap;
+}
+
+.wrapper > h2 {
+    flex: 200px;
+    background: aqua;
+}
